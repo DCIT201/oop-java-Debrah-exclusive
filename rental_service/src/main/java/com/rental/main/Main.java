@@ -21,7 +21,7 @@ public class Main {
                 System.out.println("1. Secure Vehicle Rental");
                 System.out.println("2. Vehicle Return");
                 System.out.println("3. Add Vehicle to Inventory (Authorization Required)");
-                System.out.println("4. View Comprehensive Fleet Report (Authorization Required)");
+                System.out.println("4. View Fleet Report (Authorization Required)");
                 System.out.println("0. Exit System");
                 System.out.print("Please enter your selection: ");
                 
